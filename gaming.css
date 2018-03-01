@@ -1,0 +1,55 @@
+}
+.containter{
+  flex-flow:<'flex-direction'>row<'flex-wrap'>wrap<;
+}
+/*tring to get fonts*/
+.h1{
+  text-align: left;
+  font-size: 50px;
+  font-style: serif;
+  font-weight: normal;
+  background-color: powderblue;
+  box-shadow: 10px;
+}
+
+div{
+  height:200px;
+  width:50%;
+  background-color: powderblue;
+}
+/* Flex grow stuff*/
+div:nth-of-type(1){flex-grow: 1;}
+div:nth-of-type(2){flex-grow: 3;}
+div:nth-of-type(3){flex-grow: 1;}
+
+/*flex Basis*/
+div:nth-of-type(2){
+  flex-basis: 100px;
+}
+/*end of flex basis*/
+
+/*flex shrink*/
+div:nth-of-type(2){
+  flex-shrink: 3;
+}
+/*end of flex shrink*/
+
+/*photo */
+#headline1{
+  background-image: url(animals/gus.JPG);
+  background-repeat: no-repeat;
+  background-position: left top;
+  padding-top: 60px;
+  margin-bottom: 50px;
+}
+
+.image{
+  display: flex;
+  flex-direction: row;
+  width: 20px;
+  height: 30px;
+  text-align: center;
+}
+
+
+}
