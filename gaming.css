@@ -4,6 +4,18 @@
   text-align: left;
 }
 
-div.polaroid
+.over-gradient{
+                position: relative;
+            }
+            .over-gradient::after{
+                background-image: linear-gradient(to right, rgba(155,0,255,0.5), rgba(255,255,255,0.5));
+                position: absolute;
+                content: '';
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+            }
+
 
 {
