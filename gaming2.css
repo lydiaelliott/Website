@@ -18,6 +18,7 @@ ul {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
+    padding:60px;
     overflow: hidden;
     background: linear-gradient(to bottom right, lightblue, purple);
 }
