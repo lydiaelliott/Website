@@ -10,30 +10,32 @@ h1{
   text-decoration: none;
   font-size: 30px;
   text-decoration-color: #FF1493;
-  text-align: center;
+  text-align: left;
+  background: 
 }
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     overflow: hidden;
-    background-color: #333;
+    background-color: #FFEBCD;
 }
 
 li {
-    float: left;
+    float: right;
 }
 
 li a {
     display: block;
     color: Red;
     text-align: center;
-    padding: 8px 14px;
-    text-decoration: none;
+    padding: 0px 14px;
+    text-decoration: bold;
+    font-size: 25px;
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #F0FFFF;
 }
 
 div.bottomleft1 {
@@ -64,6 +66,11 @@ div.bottomleft4 {
     font-size: 30px;
     color: #000000
 }
+.story{
+  border-style: solid;
+  display: center;
+  margin: 5px;
+}
 .img {
     display: flex;
     max-width: 600px;
@@ -74,13 +81,14 @@ div.bottomleft4 {
 .container{
   display: flex;
   flex-wrap: wrap;
-  margin: auto;
+  margin: 5px;
 }
 
 .item{
   display: flex;
-  margin: auto;
+  margin: 5px;
   border-style: solid;
+}
 
 
 {
