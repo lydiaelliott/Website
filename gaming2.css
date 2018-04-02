@@ -11,14 +11,15 @@ h1{
   font-size: 30px;
   text-decoration-color: #FF1493;
   text-align: left;
-  background: 
+  background:linear-gradient(to bottom right, lightblue, purple)
 }
+
 ul {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    background-color: #FFEBCD;
+    background: linear-gradient(to bottom right, lightblue, purple);
 }
 
 li {
