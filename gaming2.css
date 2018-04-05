@@ -1,3 +1,4 @@
+}
 a{
   text-decoration: none;
 
@@ -9,6 +10,7 @@ a{
 h1{
   text-decoration: none;
   font-size: 30px;
+  margin-top: 0px;
   text-decoration-color: #FF1493;
   text-align: left;
   background:linear-gradient(to bottom right, lightblue, purple)
@@ -18,7 +20,7 @@ ul {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
-    padding:60px;
+    padding:30px;
     overflow: hidden;
     background: linear-gradient(to bottom right, lightblue, purple);
 }
@@ -29,7 +31,7 @@ li {
 
 li a {
     display: block;
-    color: Red;
+    color: black;
     text-align: center;
     padding: 0px 14px;
     text-decoration: bold;
@@ -37,7 +39,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #F0FFFF;
+    background-color: #A9A9A9;
 }
 
 div.bottomleft1 {
@@ -69,8 +71,8 @@ div.bottomleft4 {
     color: #000000
 }
 .story{
-  border-style: solid;
-  display: center;
+  border-style: none;
+  display: left;
   margin: 5px;
 }
 .img {
@@ -89,8 +91,7 @@ div.bottomleft4 {
 .item{
   display: flex;
   margin: 5px;
-  border-style: solid;
+  border-style: none;
 }
 
-
-{
+}
