@@ -49,27 +49,7 @@ div.bottomleft1 {
     font-size: 30px;
     color: #000000
 }
-div.bottomleft2 {
-    display: flex;
-    bottom: 20px;
-    left: 20px;
-    font-size: 30px;
-    color: #000000
-}
-div.bottomleft3 {
-    display: flex;
-    bottom: 20px;
-    left: 20px;
-    font-size: 30px;
-    color: #000000
-}
-div.bottomleft4 {
-    display: flex;
-    bottom: 20px;
-    left: 20px;
-    font-size: 30px;
-    color: #000000
-}
+
 .story{
   border-style: none;
   display: left;
