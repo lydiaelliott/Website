@@ -58,8 +58,10 @@ div.bottomleft1 {
 .img {
     display: flex;
     max-width: 600px;
+    max-height: 600px;
+    min-height: 200px;
     min-width: 200px;
-    margin-bottom: auto;
+    margin-bottom: flex;
 }
 
 .container{
