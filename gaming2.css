@@ -38,17 +38,14 @@ li a {
     font-size: 25px;
     letter-spacing: 2px;
     padding-right: 25px;
+    padding-left: 25px;
     margin-right: 50px;
     padding-top: 20px;
 }
 
 
 li a:hover {
-<<<<<<< HEAD
     background-color: #BA55D3;
-=======
-    background-color: #551a8b;
->>>>>>> 8b3b95f93511056818f2e51d6768f895bbef543a
     padding-bottom: 20px;
     padding-left: 25px;
 }
