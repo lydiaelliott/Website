@@ -76,6 +76,14 @@ div.bottomleft1 {
   display: flex;
   flex-wrap: wrap;
   margin: 5px;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.bottom-left {
+    position: relative;
+    bottom: 8px;
+    left: 16px;
 }
 
 .item{
