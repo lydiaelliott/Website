@@ -52,10 +52,11 @@ li a:hover {
 
 div.bottomleft1 {
     display: flex;
-    bottom: 20px;
-    left: 20px;
+    position: relative;
+    bottom: 50px;
+    left: 10px;
     font-size: 30px;
-    color: #000000
+    color: #BA55D3
 }
 
 .story{
