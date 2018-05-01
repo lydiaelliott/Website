@@ -58,7 +58,7 @@ div.bottomleft1 {
     font-size: 30px;
     color: #BA55D3
     text-decoration: none;
-    
+
 }
 
 .story{
@@ -83,11 +83,7 @@ div.bottomleft1 {
   text-align: center;
   color: white;
 }
-.bottom-left {
-    position: relative;
-    bottom: 8px;
-    left: 16px;
-}
+
 
 .item{
   display: flex;
