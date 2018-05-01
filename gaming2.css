@@ -67,7 +67,6 @@ div.bottomleft1 {
 }
 .img {
     display: flex;
-
 }
 
 .container{
@@ -84,6 +83,7 @@ div.bottomleft1 {
   display: flex;
   margin: 5px;
   border-style: none;
+  margin-bottom: -40px;
 }
 
 }
