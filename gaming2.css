@@ -57,6 +57,8 @@ div.bottomleft1 {
     left: 10px;
     font-size: 30px;
     color: #BA55D3
+    text-decoration: none;
+    
 }
 
 .story{
@@ -65,7 +67,7 @@ div.bottomleft1 {
   margin: 5px;
 }
 .img {
-    display: flex-wrap;
+    display: flex;
     max-width: 600px;
     max-height: 600px;
     min-height: 200px;
