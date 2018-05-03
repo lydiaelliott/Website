@@ -3,6 +3,10 @@ a{
   text-decoration: none;
 
 }
+.news{
+  text-decoration: none;
+}
+
 .body{
   background-color: #FFF8DC
 }
@@ -51,13 +55,13 @@ li a:hover {
 }
 
 div.bottomleft1 {
+    text-decoration: none;
     display: flex;
     position: relative;
     bottom: 50px;
     left: 10px;
     font-size: 30px;
     color: #BA55D3
-    text-decoration: none;
 
 }
 
