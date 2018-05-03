@@ -1,4 +1,4 @@
-}
+ }
 a{
   text-decoration: none;
 
@@ -13,7 +13,7 @@ a{
 
 h1{
   text-decoration: none;
-  font-size: 60px;
+  font-size: 375%;
   margin-top: 0px;
   text-decoration-color: #FF1493;
   text-align: left;
@@ -27,7 +27,8 @@ ul {
 
     overflow: hidden;
     background: linear-gradient(to bottom right, lightblue, purple);
-}
+  }
+
 
 li {
     float: right;
@@ -37,7 +38,6 @@ li a {
     display: block;
     color: black;
     text-align: none;
-    padding: 0px 0px;
     text-decoration: bold;
     font-size: 25px;
     letter-spacing: 2px;
@@ -55,7 +55,6 @@ li a:hover {
 }
 
 div.bottomleft1 {
-    text-decoration: none;
     display: flex;
     position: relative;
     bottom: 50px;
@@ -65,11 +64,6 @@ div.bottomleft1 {
 
 }
 
-.story{
-  border-style: none;
-  display: left;
-  margin: 5px;
-}
 .img {
     display: flex;
 }
@@ -77,7 +71,7 @@ div.bottomleft1 {
 .container{
   display: flex;
   flex-wrap: wrap;
-  margin: 5px;
+  margin: 0px;
   position: relative;
   text-align: center;
   color: white;
@@ -86,9 +80,12 @@ div.bottomleft1 {
 
 .item{
   display: flex;
-  margin: 5px;
+  margin: 10px;
   border-style: none;
   margin-bottom: -40px;
 }
+
+<script>
+</script>
 
 }
