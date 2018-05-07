@@ -1,4 +1,4 @@
-}
+ }
 a{
   text-decoration: none;
 
@@ -13,8 +13,13 @@ a{
 
 h1{
   text-decoration: none;
+<<<<<<< HEAD
   font-size: 30pt;
   margin-top: 0pt;
+=======
+  font-size: 375%;
+  margin-top: 0px;
+>>>>>>> 9375b5aae5891e04e3f4d0ac26e9478ec84726d7
   text-decoration-color: #FF1493;
   text-align: left;
   background:linear-gradient(to bottom right, lightpink, pink)
@@ -26,8 +31,14 @@ ul {
     padding: 10pt;
 
     overflow: hidden;
+<<<<<<< HEAD
     background: linear-gradient(to bottom right, lightpink, red);
 }
+=======
+    background: linear-gradient(to bottom right, lightblue, purple);
+  }
+
+>>>>>>> 9375b5aae5891e04e3f4d0ac26e9478ec84726d7
 
 li {
     float: right;
@@ -37,7 +48,10 @@ li a {
     display: block;
     color: black;
     text-align: none;
+<<<<<<< HEAD
     padding: 0pt 0pt;
+=======
+>>>>>>> 9375b5aae5891e04e3f4d0ac26e9478ec84726d7
     text-decoration: bold;
     font-size: 25pt;
     letter-spacing: 2pt;
@@ -55,7 +69,6 @@ li a:hover {
 }
 
 div.bottomleft1 {
-    text-decoration: none;
     display: flex;
     position: relative;
     bottom: 50px;
@@ -65,11 +78,14 @@ div.bottomleft1 {
 
 }
 
+<<<<<<< HEAD
 .story{
   border-style: none;
   display: left;
   margin: 5pt;
 }
+=======
+>>>>>>> 9375b5aae5891e04e3f4d0ac26e9478ec84726d7
 .img {
     display: flex;
 }
@@ -77,7 +93,11 @@ div.bottomleft1 {
 .container{
   display: flex;
   flex-wrap: wrap;
+<<<<<<< HEAD
   margin: 5pt;
+=======
+  margin: 0px;
+>>>>>>> 9375b5aae5891e04e3f4d0ac26e9478ec84726d7
   position: relative;
   text-align: center;
   color: white;
@@ -86,9 +106,16 @@ div.bottomleft1 {
 
 .item{
   display: flex;
+<<<<<<< HEAD
   margin: 20pt;
+=======
+  margin: 10px;
+>>>>>>> 9375b5aae5891e04e3f4d0ac26e9478ec84726d7
   border-style: none;
   margin-bottom: -40pt;
 }
+
+<script>
+</script>
 
 }
