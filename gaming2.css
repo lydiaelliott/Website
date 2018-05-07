@@ -13,13 +13,10 @@ a{
 
 h1{
   text-decoration: none;
-<<<<<<< HEAD
-  font-size: 30pt;
-  margin-top: 0pt;
-=======
+  font-size: 30px;
+  margin-top: 0px;
   font-size: 375%;
   margin-top: 0px;
->>>>>>> 9375b5aae5891e04e3f4d0ac26e9478ec84726d7
   text-decoration-color: #FF1493;
   text-align: left;
   background:linear-gradient(to bottom right, lightpink, pink)
@@ -27,18 +24,12 @@ h1{
 
 ul {
     list-style-type: none;
-    margin: 0pt;
-    padding: 10pt;
-
+    margin: 0px;
+    padding: 10px;
     overflow: hidden;
-<<<<<<< HEAD
     background: linear-gradient(to bottom right, lightpink, red);
-}
-=======
-    background: linear-gradient(to bottom right, lightblue, purple);
   }
 
->>>>>>> 9375b5aae5891e04e3f4d0ac26e9478ec84726d7
 
 li {
     float: right;
@@ -48,17 +39,14 @@ li a {
     display: block;
     color: black;
     text-align: none;
-<<<<<<< HEAD
-    padding: 0pt 0pt;
-=======
->>>>>>> 9375b5aae5891e04e3f4d0ac26e9478ec84726d7
+    padding: 0px 0px;
     text-decoration: bold;
-    font-size: 25pt;
-    letter-spacing: 2pt;
-    padding-right: 25pt;
-    padding-left: 25pt;
-    margin-right: 50pt;
-    padding-top: 20pt;
+    font-size: 25px;
+    letter-spacing: 2px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-right: 50px;
+    padding-top: 20px;
 }
 
 
