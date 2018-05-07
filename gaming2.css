@@ -13,20 +13,20 @@ a{
 
 h1{
   text-decoration: none;
-  font-size: 60px;
-  margin-top: 0px;
+  font-size: 30pt;
+  margin-top: 0pt;
   text-decoration-color: #FF1493;
   text-align: left;
-  background:linear-gradient(to bottom right, lightblue, purple)
+  background:linear-gradient(to bottom right, lightpink, pink)
 }
 
 ul {
     list-style-type: none;
-    margin: 0px;
-    padding: 10px;
+    margin: 0pt;
+    padding: 10pt;
 
     overflow: hidden;
-    background: linear-gradient(to bottom right, lightblue, purple);
+    background: linear-gradient(to bottom right, lightpink, red);
 }
 
 li {
@@ -37,14 +37,14 @@ li a {
     display: block;
     color: black;
     text-align: none;
-    padding: 0px 0px;
+    padding: 0pt 0pt;
     text-decoration: bold;
-    font-size: 25px;
-    letter-spacing: 2px;
-    padding-right: 25px;
-    padding-left: 25px;
-    margin-right: 50px;
-    padding-top: 20px;
+    font-size: 25pt;
+    letter-spacing: 2pt;
+    padding-right: 25pt;
+    padding-left: 25pt;
+    margin-right: 50pt;
+    padding-top: 20pt;
 }
 
 
@@ -68,7 +68,7 @@ div.bottomleft1 {
 .story{
   border-style: none;
   display: left;
-  margin: 5px;
+  margin: 5pt;
 }
 .img {
     display: flex;
@@ -77,7 +77,7 @@ div.bottomleft1 {
 .container{
   display: flex;
   flex-wrap: wrap;
-  margin: 5px;
+  margin: 5pt;
   position: relative;
   text-align: center;
   color: white;
@@ -86,9 +86,9 @@ div.bottomleft1 {
 
 .item{
   display: flex;
-  margin: 5px;
+  margin: 20pt;
   border-style: none;
-  margin-bottom: -40px;
+  margin-bottom: -40pt;
 }
 
 }
