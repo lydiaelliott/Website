@@ -84,7 +84,7 @@ div.bottomleft1 {
 
 .item{
   display: flex;
-  margin: 1%;
+  margin: .5%;
   border-style: none;
   margin-bottom: -1%;
 }
