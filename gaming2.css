@@ -11,6 +11,7 @@ h1{
   text-decoration: none;
   list-style-type: none;
   margin-top: 1%;
+  padding: 2%;
   font-size: 200%;
   text-decoration-color: #FF1493;
   text-align: left;
@@ -21,8 +22,8 @@ h1{
 li {
     float: right;
     padding-right: 10%;
-    margin-bottom: 2%;
-    margin-top: 2%;
+    margin-bottom: 0%;
+    margin-top: .5%;
 }
 
 li a {
@@ -34,7 +35,7 @@ li a {
     font-size: 50%;
     letter-spacing: 150%;
     margin-right: 150%;
-    margin-top: -2%;
+    margin-top: 0%;
 }
 
 
@@ -53,8 +54,13 @@ li a:hover {
 div.bottomleft1 {
     display: flex;
     text-decoration: solid;
+<<<<<<< HEAD
     position: ;
     bottom: 5%;
+=======
+    position: relative;
+    bottom: 10%;
+>>>>>>> dfb19bf2ead141f0dd5589341973975dc38d11e0
     left: 5%;
     font-size-adjust: 250%;
     color: #BA55D3
@@ -75,7 +81,7 @@ div.bottomleft1 {
   display: flex;
   flex-wrap: wrap;
   margin: 0%;
-  position: relative;
+  position: static;
   text-align: center;
   color: white;
 }
@@ -83,8 +89,12 @@ div.bottomleft1 {
 
 .item{
   display: flex;
+<<<<<<< HEAD
 
   margin: 1%;
+=======
+  margin: .5%;
+>>>>>>> dfb19bf2ead141f0dd5589341973975dc38d11e0
   border-style: none;
   margin-bottom: -1%;
 }
