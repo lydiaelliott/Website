@@ -20,8 +20,8 @@ h1{
 
 ul {
     list-style-type: none;
-    margin: 0%;
-    padding: 1%;
+    margin-top: -1%;
+    padding: 0%;
     overflow: hidden;
     background: linear-gradient(to bottom right, lightblueS, royalblue);
   }
@@ -31,6 +31,8 @@ ul {
 li {
     float: right;
     padding-right: 10%;
+    margin-bottom: 2%;
+    margin-top: 2%;
 }
 
 li a {
@@ -41,17 +43,14 @@ li a {
     text-decoration: bold;
     font-size: 50%;
     letter-spacing: 150%;
-    padding-right: 200%;
-    padding-left: 125%;
     margin-right: 150%;
-    padding-top: 120%;
+    margin-top:10%;
 }
 
 
 li a:hover {
     background-color: #BA55D3;
-    padding-bottom: 120%;
-    padding-left: 125%;
+    padding-left: 50%;
 }
 
 .article1{
