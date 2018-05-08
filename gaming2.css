@@ -64,9 +64,9 @@ div.bottomleft1 {
     display: flex;
     text-decoration: solid;
     position: relative;
-    bottom: 50px;
-    left: 10px;
-    font-size: 30px;
+    bottom: 5%;
+    left: 5%;
+    font-size: 30%;
     color: #BA55D3
 
 }
