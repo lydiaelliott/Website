@@ -10,9 +10,12 @@
 h1{
   text-decoration: none;
   list-style-type: none;
-  margin-top: 1%;
   padding: 2%;
   font-size: 200%;
+  margin-bottom: 1%;
+  margin-left: -1%;
+  margin-right: -1%;
+  margin-top: -1%;
   text-decoration-color: #FF1493;
   text-align: left;
   background:linear-gradient(to bottom right, lightblue, royalblue)
@@ -33,15 +36,14 @@ li a {
     padding: 0%;
     text-decoration: bold;
     font-size: 50%;
-    letter-spacing: 150%;
-    margin-right: 150%;
-    margin-top: 0%;
+    margin-right: 0%;
+    padding: 10%;
+    text-decoration: none;
 }
 
 
 li a:hover {
     background-color: #BA55D3;
-    padding-left: 50%;
 }
 
 .article1{
@@ -70,6 +72,7 @@ div.bottomleft1 {
 
 .img {
     display: flex;
+    align-self: right;
 }
 
 .container{
