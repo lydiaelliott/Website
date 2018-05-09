@@ -24,19 +24,31 @@ h1{
 
 li {
     float: right;
-    padding-right: 10%;
+    margin-right: 5%;
     margin-bottom: 0%;
     margin-top: .5%;
+}
+
+div b {
+    display: block;
+    color: black;
+    padding: 0%;
+    text-decoration: bold;
+    font-size: 50%;
+    padding-right: 1%;
+    padding: 0%;
+    margin-bottom: 0%;
+    text-decoration: none;
+    float: right;
 }
 
 li a {
     display: block;
     color: black;
-    text-align: none;
     padding: 0%;
     text-decoration: bold;
     font-size: 50%;
-    margin-right: 0%;
+    padding-right: 100%;
     padding: 10%;
     text-decoration: none;
 }
@@ -44,6 +56,8 @@ li a {
 
 li a:hover {
     background-color: #BA55D3;
+    margin: 0%;
+    padding-top: 0%;
 }
 
 .article1{
