@@ -70,11 +70,6 @@ li a:hover {
 div.bottomleft1 {
     display: flex;
     text-decoration: solid;
-<<<<<<< HEAD
-=======
-    position: absolute;
-    bottom: 5%;
->>>>>>> 41d73dbee70c1b805b204301e55a82a31b5d14e5
     position: relative;
     bottom: 10%;
     left: 5%;
@@ -106,10 +101,6 @@ div.bottomleft1 {
 
 .item{
   display: flex;
-<<<<<<< HEAD
-=======
-  margin: 1%;
->>>>>>> 41d73dbee70c1b805b204301e55a82a31b5d14e5
   margin: .5%;
   border-style: none;
   margin-bottom: -1%;
