@@ -57,12 +57,10 @@ div b:hover {
 div.bottomleft1 {
     display: flex;
     text-decoration: solid;
-    position: absolute;
-    bottom: 5%;
     position: relative;
     bottom: 10%;
     left: 5%;
-    font-size-adjust: 250%;
+    font-size: 150%;
     color: #BA55D3
 
 }
@@ -90,7 +88,6 @@ div.bottomleft1 {
 
 .item{
   display: flex;
-  margin: 1%;
   margin: .5%;
   border-style: none;
   margin-bottom: -1%;
