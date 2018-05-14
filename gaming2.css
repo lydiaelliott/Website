@@ -21,24 +21,60 @@ h1{
   background:linear-gradient(to bottom right, lightblue, royalblue);
 }
 
-.active{
+.Home{
   display: flex;
+  color: black;
+  padding: 0%;
+  text-decoration: none;
+  font-size: 55%;
+  padding-right: 3%;
+  padding-left: 5%;
+  margin-bottom: 0%;
+  padding-top: 1%;
+  float: right;
 }
 
 
-
-.menu{
-    display: flex;
-    color: black;
-    padding: 0%;
-    text-decoration: none;
-    font-size: 55%;
-    padding-right: 3%;
-    padding-left: 5%;
-    margin-bottom: 0%;
-    padding-top: 1%;
-    float: right;
+.News{
+  display: flex;
+  color: black;
+  padding: 0%;
+  text-decoration: none;
+  font-size: 55%;
+  padding-right: 3%;
+  padding-left: 5%;
+  margin-bottom: 0%;
+  padding-top: 1%;
+  float: right;
 }
+
+.Contact{
+  display: flex;
+  color: black;
+  padding: 0%;
+  text-decoration: none;
+  font-size: 55%;
+  padding-right: 3%;
+  padding-left: 5%;
+  margin-bottom: 0%;
+  padding-top: 1%;
+  float: right;
+}
+
+.About{
+  display: flex;
+  color: black;
+  padding: 0%;
+  text-decoration: none;
+  font-size: 55%;
+  padding-right: 3%;
+  padding-left: 5%;
+  margin-bottom: 0%;
+  padding-top: 1%;
+  float: right;
+}
+
+
 
 
 
