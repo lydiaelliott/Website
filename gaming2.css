@@ -21,13 +21,17 @@ h1{
   background:linear-gradient(to bottom right, lightblue, royalblue);
 }
 
+.active{
+  display: flex;
+}
+
 
 
 .menu{
     display: flex;
     color: black;
     padding: 0%;
-    text-decoration: bold;
+    text-decoration: none;
     font-size: 55%;
     padding-right: 5%;
     padding-left: 5%;
