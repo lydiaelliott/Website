@@ -24,18 +24,16 @@ h1{
 
 
 .menu{
-    display: block;
+    display: flex;
     color: black;
     padding: 0%;
     text-decoration: bold;
-    font-size: 50%;
-    padding-right: 0%;
-    padding-left: 0%;
+    font-size: 55%;
+    padding-right: 5%;
+    padding-left: 5%;
     margin-bottom: 0%;
-    text-decoration: none;
-    padding-top: 0%;
+    padding-top: 1%;
     float: right;
-    text-align: right;
 }
 
 
@@ -43,8 +41,7 @@ h1{
 
 div b:hover {
     background-color: #BA55D3;
-    margin: 0%;
-    padding-top: 0%;
+
 }
 
 .article1{
