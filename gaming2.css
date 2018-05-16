@@ -3,9 +3,7 @@
    text-decoration: none;
  }
 
-.body{
-  background-color: #FFF8DC
-}
+
 
 h1{
   text-decoration: none;
@@ -21,19 +19,7 @@ h1{
   background:linear-gradient(to bottom right, lightblue, royalblue);
 }
 
-.title{
-  display: flex;
-  color: black;
-  padding: 0%;
-  text-decoration: none;
-  font-size: 55%;
-  padding-right: 3%;
-  padding-left: 5%;
-  margin-bottom: 0%;
-  padding-top: 0%;
-  margin-top: -1%;
-  float: right;
-}
+
 
 .Home{
   display: flex;
@@ -78,7 +64,6 @@ h1{
 
 
 
-
 div b:hover {
     background-color: #BA55D3;
 
@@ -119,7 +104,6 @@ div.bottomleft1 {
   margin: 0%;
   position: static;
   text-align: center;
-  color: white;
 }
 
 
