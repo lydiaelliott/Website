@@ -79,8 +79,6 @@ h1{
 
 
 
-
-
 div b:hover {
     background-color: #BA55D3;
 
@@ -97,7 +95,7 @@ div.bottomleft1 {
     display: flex;
     text-decoration: solid;
     position: relative;
-    bottom: 10%;
+    bottom: 15%;
     left: 5%;
     font-size: 150%;
     color: #BA55D3
