@@ -1,12 +1,16 @@
 }
 h1{
   text-align: center;
-  
+  text-decoration-color: lightblue;
+
+
 }
 
 h2{
+  display: column;
   text-align: center;
   padding-left: 20%;
+
 
 }
 
@@ -17,6 +21,7 @@ p{
   padding-right: 10%;
 
 }
+
 
 
 
