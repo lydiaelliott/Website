@@ -69,6 +69,10 @@ div b:hover {
 
 }
 
+.item:hover{
+    color: #BA55D3
+}
+
 .article1{
   display: flex;
   text-decoration: none;
@@ -79,41 +83,30 @@ div b:hover {
 div.bottomleft1 {
     display: flex;
     text-decoration: solid;
-    position: relative;
-    bottom: 15%;
     left: 5%;
+    bottom: 10%;
     font-size: 150%;
     color: #BA55D3
 
 }
 
-.story{
-  border-style: none;
-  display: left;
-  margin: 5%;
-}
-
-.img {
-    display: flex;
-    align-self: center;
-}
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  margin: 0%;
-  position: static;
-  text-align: center;
+
 }
 
 
 .item{
-  display: flex;
   margin: .5%;
-  border-style: none;
-  margin-bottom: -1%;
   align-self: center;
 }
+
+.img{
+
+}
+
 
 <script>
 </script>
