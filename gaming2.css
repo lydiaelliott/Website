@@ -71,10 +71,7 @@ div b:hover {
 
 }
 
-.bottomleft1:hover{
-    color: #BA55D3;
-    margin: 0%;
-}
+
 
 .article1{
   display: flex;
@@ -90,15 +87,17 @@ div.bottomleft1 {
     left: 5%;
     bottom: 10%;
     font-size: 150%;
-    color: #BA55D3
+    color: white;
 
 }
 
 
 .container{
   position: relative;
-  margin:auto;
+  padding: .25%;
+  margin: .25%;
   display: flex;
+  background: black;
 }
 
 .bigcontainer{
@@ -107,13 +106,15 @@ div.bottomleft1 {
 }
 
 .item{
-  margin: .5%;
-  position: inherit;
+  position: flex;
   display: flex;
+  color: blue;
+
 }
 
-.img{
-
+.item img:hover{
+    margin-bottom: 0%;
+    opacity: .7;
 }
 
 
