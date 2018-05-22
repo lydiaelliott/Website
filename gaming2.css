@@ -96,6 +96,7 @@ div.bottomleft1 {
   position: relative;
   padding: .25%;
   margin: .25%;
+  padding-bottom: 0%;
   display: flex;
   background: black;
 }
