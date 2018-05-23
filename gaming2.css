@@ -73,12 +73,7 @@ div b:hover {
 
 
 
-.article1{
-  display: flex;
-  text-decoration: none;
-  font-size: 5%;
-  image-orientation: 30%;
-}
+
 
 div.bottomleft1 {
     display: flex;
@@ -93,11 +88,10 @@ div.bottomleft1 {
 
 
 .container{
-  position: relative;
+  position: flex;
   padding: .25%;
   margin: .25%;
   padding-bottom: 0%;
-  display: flex;
   background: black;
 }
 
@@ -107,7 +101,7 @@ div.bottomleft1 {
 }
 
 .item{
-  position: flex;
+  position: relative;
   display: flex;
   color: blue;
 
@@ -116,7 +110,10 @@ div.bottomleft1 {
 .item img:hover{
     margin-bottom: 0%;
     opacity: .7;
+
 }
+
+
 
 
 <script>
