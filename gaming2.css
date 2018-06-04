@@ -121,7 +121,7 @@ img:hover{
 .columncontainer{
   display: flex;
   position: relative;
-  padding: 1%;
+  padding: .4%;
   margin: 1%;
   padding-bottom: 0%;
   background: black;
@@ -129,13 +129,12 @@ img:hover{
 
 .columnitem{
   display: flex;
+  flex-wrap: wrap;
   color: #000000;
 }
 .collumbs{
-  column-count:2;
-  column-gap: 10%;
-  column-fill: auto;
-
+  flex-wrap: wrap;
+  column-count:8;
 }
 
 
