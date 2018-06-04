@@ -21,14 +21,14 @@ h1{
   margin-top: -1%;
   text-decoration-color: #FF1493;
   text-align: left;
-  background:linear-gradient(to top left, #eee8d5, #fdf8e3);
+  background:linear-gradient(to top left, #8b008b, #93e1e1);
 }
 
 
 
 .Home{
   display: flex;
-  color: #268bd2;
+  color: #000000;
   text-decoration: none;
   font-size: 55%;
   padding: 2%;
@@ -39,7 +39,7 @@ h1{
 
 .News{
   display: flex;
-  color: #268bd2;
+  color: #000000;
   text-decoration: none;
   font-size: 55%;
   padding: 2%;
@@ -49,7 +49,7 @@ h1{
 
 .Contact{
   display: flex;
-  color: #268bd2;
+  color: #000000;
   text-decoration: none;
   font-size: 55%;
   padding: 2%;
@@ -59,7 +59,7 @@ h1{
 
 .About{
   display: flex;
-  color: #268bd2;
+  color: #000000;
   text-decoration: none;
   font-size: 55%;
   padding: 2%;
@@ -70,7 +70,7 @@ h1{
 
 
 div b:hover {
-    background-color: #839496;
+    background:linear-gradient(to top left, #8b008b, #93e1e1);
 
 }
 
@@ -107,7 +107,7 @@ div.bottomleft1 {
 .item{
   position: relative;
   display: flex;
-  color: #268bd2;
+  color: #000000;
 
 }
 
@@ -115,6 +115,26 @@ div.bottomleft1 {
 img:hover{
     margin-bottom: 0%;
     opacity: .7;
+
+}
+
+.columncontainer{
+  display: flex;
+  position: relative;
+  padding: 1%;
+  margin: 1%;
+  padding-bottom: 0%;
+  background: black;
+}
+
+.columnitem{
+  display: flex;
+  color: #000000;
+}
+.collumbs{
+  column-count:2;
+  column-gap: 10%;
+  column-fill: auto;
 
 }
 
