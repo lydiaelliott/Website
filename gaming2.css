@@ -4,6 +4,7 @@
  }
 .title{
   pointer-events: none;
+  
 }
 
 .body{
@@ -97,11 +98,14 @@ div.bottomleft1 {
   margin: .25%;
   padding-bottom: 0%;
   background: black;
+  min-width: 5%;
+  max-width: inherit;
 }
 
 .bigcontainer{
   display: flex;
   flex-wrap: wrap;
+
 }
 
 .item{
