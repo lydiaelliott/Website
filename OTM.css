@@ -91,7 +91,7 @@ div b:hover {
 div.bottomleft1 {
     display: flex;
     position: absolute;
-    text-decoration: solid;
+    text-decoration: bold;
     left: 5%;
     bottom: 10%;
     font-size: 150%;
