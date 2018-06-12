@@ -102,15 +102,7 @@ div.bottomleft1 {
 }
 
 
-.container{
-  flex-wrap: wrap-reverse;
-  padding: .25%;
-  margin: .25%;
-  padding-bottom: 0%;
-  background: black;
-  flex: 1;
-  flex-shrink: 3;
-}
+
 
 .bigcontainer{
   display: flex;
@@ -119,11 +111,14 @@ div.bottomleft1 {
 }
 
 .item{
-  position: relative;
-  display: flex;
+  position:relative;
   color: #000000;
-  flex-shrink: 3;
-  flex-wrap: wrap;
+  padding: .25%;
+  margin: .25%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0%;
+  background: black;
 
 }
 
