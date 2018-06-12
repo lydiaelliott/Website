@@ -103,13 +103,13 @@ div.bottomleft1 {
 
 
 .container{
-  position: flex;
+  flex-wrap: wrap-reverse;
   padding: .25%;
   margin: .25%;
   padding-bottom: 0%;
   background: black;
-  min-width: 5%;
-  max-width: inherit;
+  flex: 1;
+  flex-shrink: 3;
 }
 
 .bigcontainer{
@@ -122,6 +122,8 @@ div.bottomleft1 {
   position: relative;
   display: flex;
   color: #000000;
+  flex-shrink: 3;
+  flex-wrap: wrap;
 
 }
 
