@@ -1,4 +1,4 @@
- }
+
  a{
    text-decoration: none;
  }
@@ -78,7 +78,7 @@ h1{
 
 
 
-div b:hover {
+div a:hover {
     background:linear-gradient(to top left, #8b008b, #93e1e1);
       border-radius: 50%;
 
